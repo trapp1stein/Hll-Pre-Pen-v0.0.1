@@ -31,9 +31,9 @@
 ## 🛠️ Installation & Running
 
 ```bash
-git clone https://github.com/yourUsername/prepentester.git
-cd prepentester
-go mod download
+git clone https://github.com/trapp1stein/Hll-Pre-Pen-v0.0.1.git
+cd [Folder]
+go mod download or tidy
 go run main.go
 ```
 
